@@ -1,4 +1,4 @@
-# [Code Legend]
+# Code Legend
 
 Our website aims to make coding fun. You race against your friend in a multiplayer lobby to complete all the coding challenges first by interacting with different characters on the map.
 
